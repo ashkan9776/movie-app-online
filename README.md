@@ -1,4 +1,6 @@
 # movie_app
+![Movie App](https://github.com/ashkan9776/movie-app-online/assets/26205732/74208277-9f7e-4682-98a6-c58c6df8fe35)
+
 
 A new Flutter project.
 
